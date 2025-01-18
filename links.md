@@ -1,0 +1,4 @@
+- https://github.com/m-thompson-code
+- https://bitovi-hearts-typescript.web.app/
+- https://davidnic11.github.io/workshop-advanced-typescript/1
+- https://discord.com/channels/1127340805741359164/1327998531067187280
